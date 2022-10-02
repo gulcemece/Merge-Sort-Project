@@ -1,4 +1,4 @@
-# Insertion-Sort-Project
+# Merge-Sort-Project
 
 www.patika.dev insertion sort project
 
